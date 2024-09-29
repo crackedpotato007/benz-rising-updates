@@ -1,11 +1,11 @@
 {
 "response": [
 {
-"maintainer": "",
-"oem": "",
-"device": "",
+"maintainer": "CrackedPotato",
+"oem": "OnePlus",
+"device": "OnePlus Nord CE 4",
 "filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20240929-CORE-COMMUNITY-benz-ota.zip",
-"download": "",
+"download": "https://sourceforge.net/projects/benz-rising/files/RisingOS-5.2.1-FINAL-STABLE-EOL-20240929-CORE-COMMUNITY-benz-ota.zip/download",
 "timestamp": 1727630647,
 "md5": "38e12a73a6f4b919c26f6501d2629728",
 "sha256": "396d9e2fc573643b58f8a1ad3e94ffac10ad2aecebcf68aec4c7d4d7c9b0f970",

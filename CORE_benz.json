@@ -1,15 +1,15 @@
 {
 "response": [
 {
-"maintainer": "crackedpotato",
+"maintainer": "CrackedPotato",
 "oem": "OnePlus",
 "device": "OnePlus Nord CE 4",
-"filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20240930-CORE-COMMUNITY-benz-ota.zip",
-"download": "https://sourceforge.net/projects/benz-rising/files/Ota/RisingOS-5.2.1-FINAL-STABLE-EOL-20240930-CORE-COMMUNITY-benz-ota.zip/download",
-"timestamp": 1727690756,
-"md5": "a45147e211be417b8964757cf0fd6505",
-"sha256": "997bd3d9c5b221466f06a5cfdd007baaf181bab8af741483d49066d0a957ed7c",
-"size": 3423909607,
+"filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20240929-CORE-COMMUNITY-benz-ota.zip",
+"download": "https://sourceforge.net/projects/benz-rising/files/RisingOS-5.2.1-FINAL-STABLE-EOL-20240929-CORE-COMMUNITY-benz-ota.zip/download",
+"timestamp": 1727630647,
+"md5": "38e12a73a6f4b919c26f6501d2629728",
+"sha256": "396d9e2fc573643b58f8a1ad3e94ffac10ad2aecebcf68aec4c7d4d7c9b0f970",
+"size": 3423909603,
 "version": "5.2.1-Lyonesse",
 "buildtype": "",
 "forum": "",

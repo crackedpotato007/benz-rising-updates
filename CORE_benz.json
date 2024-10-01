@@ -1,4 +1,4 @@
-{{
+{
         "response": [
                 {
                         "maintainer": "",
@@ -6,7 +6,7 @@
                         "device": "",
                         "filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20240930-CORE-COMMUNITY-benz-ota.zip",
                         "download": "",
-                        "timestamp": 1727706677,
+                        "timestamp": 1730441394,
                         "md5": "8851edf7b022c9471bbd4e68f90bfd15",
                         "sha256": "0caff08384d27bc7df8ed717c487ba4e3ff70e0847f69d0e2c3443f54f973bb2",
                         "size": 3423909435,

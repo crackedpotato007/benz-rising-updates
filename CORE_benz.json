@@ -1,28 +1,28 @@
 {
-        "response": [
-                {
-                        "maintainer": "CrackedPotato",
-                        "oem": "",
-                        "device": "",
-                        "filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20241001-CORE-COMMUNITY-benz-ota.zip",
-                        "download": "https://sourceforge.net/projects/benz-rising/files/Ota/RisingOS-5.2.1-FINAL-STABLE-EOL-20241001-CORE-COMMUNITY-benz-ota.zip/download",
-                        "timestamp": 1727776951,
-                        "md5": "d63bcc5b105b5d3aa3c990c2bb8c1e14",
-                        "sha256": "9a38d3dd2292f0389490223168938845361f2433c092ced11b5163f89a150166",
-                        "size": 3419839150,
-                        "version": "5.2.1-Lyonesse",
-                        "buildtype": "",
-                        "forum": "",
-                        "gapps": "",
-                        "firmware": "",
-                        "modem": "",
-                        "bootloader": "",
-                        "recovery": "",
-                        "paypal": "",
-                        "telegram": "",
-                        "dt": "",
-                        "common-dt": "",
-                        "kernel": ""
-                }
-        ]
+"response": [
+{
+"maintainer": "CrackedPotato",
+"oem": "",
+"device": "",
+"filename": "RisingOS-5.2.1-FINAL-STABLE-EOL-20241001-CORE-COMMUNITY-benz-ota.zip",
+"download": "https://sourceforge.net/projects/benz-rising/files/Ota/RisingOS-5.2.1-FINAL-STABLE-EOL-20241001-CORE-COMMUNITY-benz-ota.zip/download",
+"timestamp": 1727806516,
+"md5": "84573cc9677fc907c63a252210226366",
+"sha256": "37b0709282aee29dd90386935f621bd49cb4ef34b8d2f7a3ba31d088bc540012",
+"size": 3420617366,
+"version": "5.2.1-Lyonesse",
+"buildtype": "",
+"forum": "",
+"gapps": "",
+"firmware": "",
+"modem": "",
+"bootloader": "",
+"recovery": "",
+"paypal": "",
+"telegram": "",
+"dt": "",
+"common-dt": "",
+"kernel": ""
+}
+]
 }
